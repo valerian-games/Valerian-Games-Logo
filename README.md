@@ -2,7 +2,7 @@
 
 This is a logo design for Valerian Games
 
-Valerian Games Logo Vertical             |  Valerian Games Logo Vertical
+Valerian Games Logo Horizontal              |  Valerian Games Logo Vertical
 :-------------------------:|:-------------------------:
 ![Valerian Games Logo Vertical](https://github.com/valerian-games/Valerian-Games-Logo/raw/master/exports/valerian-games-logo-vertical%20%403x.png)  |  ![Valerian Games Logo Vertical](https://github.com/valerian-games/Valerian-Games-Logo/raw/master/exports/valerian-games-logo-horizontal%20%403x.png)
 
